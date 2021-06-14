@@ -1,0 +1,27 @@
+p{
+    margin: 0;
+    font-size: 1.3em;
+}
+.wrapper{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.done{
+    background-color: rgba(0, 0, 0, 0.103);
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.btn{
+    background-color: transparent;
+    background: transparent;
+}
